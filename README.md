@@ -1,13 +1,15 @@
-# Fullstack dApp (Azle + Express + NextJS + ICP)
-
-This template is designed to easily build applications deployed on ICP using Azle + Express for RESTful APIs and Next.js for frontend development.
-
-## Run Locally
-
+# EQUIPO FEMEJO - API REST 
+DEBIDO A LA FALTA DE TIEMPO PROVACADA POR LA SEMANA DE EVALUACIONES
+Y A PROBLEMAS TECNICOS PRESENTADOS EN EL EQUIPO DE LOS NUESTROS COMPAÑEROS
+LA APPLICACION CUENTA CON LO SIGUIENTE:
+- API REST que se puede probar en Postman
+- FRONTEND que solo despliega los registros en el navegador.
+  
+## Run Locally 
 Clone the project
 
 ```bash
-  git clone https://github.com/adrian-d-hidalgo/azle-api-rest-nextjs
+  git clone https://github.com/Geo290/equipo_femejo_azle.git
 ```
 
 Go to the project directory
@@ -86,3 +88,6 @@ Then, navitate to `frontend` folder:
 Run the following script:
 
 `npm run dev`
+
+## GO TO THE ROUTE:
+`/Movies`
