@@ -1,10 +1,12 @@
 # EQUIPO FEMEJO - API REST 
-DEBIDO A LA FALTA DE TIEMPO PROVACADA POR LA SEMANA DE EVALUACIONES
-Y A PROBLEMAS TECNICOS PRESENTADOS EN EL EQUIPO DE LOS NUESTROS COMPAÑEROS
+
 LA APPLICACION CUENTA CON LO SIGUIENTE:
 - API REST que se puede probar en Postman
 - FRONTEND que solo despliega los registros en el navegador.
-  
+  -
+ ## GO TO THE ROUTE:
+`/Movies` 
+
 ## Run Locally 
 Clone the project
 
@@ -88,6 +90,3 @@ Then, navitate to `frontend` folder:
 Run the following script:
 
 `npm run dev`
-
-## GO TO THE ROUTE:
-`/Movies`
